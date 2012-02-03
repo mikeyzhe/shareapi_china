@@ -1,0 +1,12 @@
+This Ruby API was created for reduce time in intergrating SNS network in China
+
+- share text(with image attachment if target site support it)
+- http proxy support
+- conviently for debug
+
+Supported Site:
++ Sina Weibo
++ Tencent QQ
++ Douban 
++ Twitter
++ Facebook 
