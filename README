@@ -3,6 +3,7 @@ This Ruby API was created for reduce time in intergrating SNS network in China
 - share text(with image attachment if target site support it)
 - http proxy support
 - conviently for debug
+- support OAuth1.0 and 2.0 protocol 
 
 Supported Site:
 + Sina Weibo
